@@ -159,4 +159,6 @@ The entire process eliminates the need for traditional servers or manual ETL wor
 This project demonstrates a **fully serverless, automated, and scalable data processing pipeline** on AWS.  
 By leveraging **S3**, **Lambda**, **Glue**, and **QuickSight**, it achieves efficient **data ingestion**, **transformation**, and **visualization** — all without managing infrastructure.
 
+![image](https://github.com/user-attachments/assets/93bc0a32-ca03-45ba-b4fd-39d28cf45241)
+
 ![image](https://github.com/user-attachments/assets/1d2c492c-8c32-4418-8da7-567c40541d38)
